@@ -17,13 +17,14 @@ _ this part is higlited italic _
 and 'codes will appear like this'
 
 
+
+```
+
 [GitHub](http://github.com)
 
 ![GitHub Logo](/images/logo.png)
 
 
-
-```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

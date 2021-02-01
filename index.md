@@ -16,9 +16,10 @@ _ this part is higlited italic _
 
 and 'codes will appear like this'
 
-[clink for google](www.google.com)
 
-![image1](something)
+[GitHub](http://github.com)
+
+![GitHub Logo](/images/logo.png)
 
 
 

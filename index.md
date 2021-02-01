@@ -4,27 +4,26 @@ content to be updated
 
 
 
-### styling tool: Markdown
+#### styling tool: Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for Syntax highlighted code block
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+** this part is highlighted bold **
 
-- Bulleted
-- List
+_ this part is higlited italic _
 
-1. Numbered
-2. List
+and 'codes will appear like this'
 
-**Bold** and _Italic_ and `Code` text
+[clink for google](www.google.com)
 
-[Link](url) and ![Image](src)
+![image1](something)
+
+
+
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
